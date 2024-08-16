@@ -1,16 +1,16 @@
 # main.py
-
+import os
 from llamaBackend import Backend
 from llamaFrontend import LlamaFrontend
 
 from programmer import Programmer
 
 def main():
-    api_key = "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"
+    api_key = api_key = os.getenv("LLAMA_API_KEY")
     backend = Backend(api_key)
     
     # Generar código basado en el módulo "CATS"
-    response_content = backend.generate_code("Cats")
+    response_content = backend.generate_code("User")
     
     # Guardar la respuesta generada en archivos
     backend.save_response(response_content)

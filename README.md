@@ -11,6 +11,8 @@ npm install
 npm serve 
 
 # Core python 
+export LLAMA_API_KEY=your_api_key en la terminal
+ 
 python3 main.py 
 
 # Por desarrollar 
