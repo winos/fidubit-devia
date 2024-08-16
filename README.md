@@ -1,5 +1,5 @@
 # Fidubit-devia
-Devia es un framework ia, que permite desarrollar un backend API en nodejs. Y frontend html,css/js. En menos de 1 minuto! 
+Devia es un framework ia, que permite desarrollar un backend API en nodejs. Y frontend html/css/js. En menos de 1 minuto! 
 
 
 # Features 
