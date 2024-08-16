@@ -6,6 +6,10 @@
 
 - **Automatización de proyectos:** Toma los requerimientos del proyecto y genera los archivos en una arquitectura MVC.
 - **Ejecución automática:** Realiza automáticamente las tareas necesarias para poner en marcha el proyecto.
+   Como :
+- - escribir codigo,
+- - Ejecutar 
+--  Test 
 
 ## Run the Main Server
 
