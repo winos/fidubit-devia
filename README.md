@@ -14,16 +14,15 @@ Para poner en marcha el servidor principal, sigue estos pasos:
 1. **Instalar dependencias:**
    ```bash
    npm install
- ```
-
+    ```
 
 2. **Core:**
    ```bash
-export LLAMA_API_KEY=your_api_key en la terminal
+    export LLAMA_API_KEY=your_api_key en la terminal
     ```
- ```bash
-python3 main.py 
-```
+    ```bash
+        python3 main.py 
+    ```
 
 # Por desarrollar 
   * Crear test a api
