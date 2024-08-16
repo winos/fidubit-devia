@@ -1,6 +1,6 @@
 # Fidubit-devia
 
-**Devia** es un framework de inteligencia artificial que permite desarrollar un backend API en Node.js y un frontend en HTML/CSS/JS en menos de 1 minuto.
+**Devia** es un framework de inteligencia artificial LLAMA-3 que permite desarrollar un backend API en Node.js y un frontend en HTML/CSS/JS en menos de 1 minuto.
 
 ## Features
 
