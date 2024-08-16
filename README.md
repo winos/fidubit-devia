@@ -19,11 +19,11 @@ Para poner en marcha el servidor principal, sigue estos pasos:
 
 2. **Core **
    ```bash
-
 export LLAMA_API_KEY=your_api_key en la terminal
- 
+    ```
+ ```bash
 python3 main.py 
-   ```
+```
 
 # Por desarrollar 
   * Crear test a api
